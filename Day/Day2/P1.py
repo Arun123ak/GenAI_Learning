@@ -1,3 +1,3 @@
 #install python packages
 #openoi:
-pip install openai google-generativeai
+#pip install openai google-generativeai

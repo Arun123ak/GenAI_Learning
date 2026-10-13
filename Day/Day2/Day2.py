@@ -2,7 +2,7 @@
 # Install Python Packages
 # openai: ollama & Openai api key
 # google-generativeai: gemini api key
-pip install openai google-generativeai
+#pip install openai google-generativeai
 
 # Code 1:
 # First API Call to ollama
